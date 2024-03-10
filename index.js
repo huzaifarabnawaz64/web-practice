@@ -10,4 +10,9 @@
     }
     console.log("this function is runing")
 
-    
+    function process(addmarks){
+    let s=0
+    forEach() {
+        
+    };
+    }
